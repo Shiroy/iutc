@@ -43,3 +43,4 @@ client/typings
 server/*.js
 server/typings
 dist/
+server/config.json

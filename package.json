@@ -1,0 +1,33 @@
+{
+  "name": "iutc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../dist/server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antoine Wacheux <awacheux.utc@gmail.com>",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "angular": "^1.4.8",
+    "angular-ui-router": "^0.2.15",
+    "bootstrap": "^3.3.5",
+    "cas-authentication": "0.0.8",
+    "cookie-parser": "^1.4.0",
+    "cookie-session": "^2.0.0-alpha.1",
+    "express": "^4.13.3",
+    "express-session": "^1.12.1",
+    "morgan": "^1.6.1",
+    "socket.io": "^1.3.7",
+    "socket.io-client": "^1.3.7",
+    "typescript": "^1.6.2"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-typescript": "^2.9.2",
+    "gulpify": "^0.1.1",
+    "tsd": "^0.6.5"
+  }
+}
